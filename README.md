@@ -24,7 +24,7 @@ The transform property translates the balls by negative values of the X and Y pe
 Styling: Styling is provided by the styles.css stylesheet, which is linked in the HTML header. This stylesheet should define styles for the eyes, eye, and ball classes, determining their size, position, and appearance.
 
 **How to Use:**
-Open the HTML file in your web browser.
+Open the HTML file in your web browser or go to hrfure.github.io/eyes
 Move your cursor around the page.
 Observe how the eyeballs track and follow the cursor's movement.
 Dependencies:
